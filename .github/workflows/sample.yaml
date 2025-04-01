@@ -1,6 +1,6 @@
 
 name: Sample Workflow
-on: workflow_dispatch
+on: pull_request
 jobs:
   # jobs
   first-job:
