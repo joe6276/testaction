@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     # Steps
     steps:
-      - name: Sayig Hello World
+      - name: Saying Hello World
         run: echo "Hello World"
 
       - name: Say Goodbye
